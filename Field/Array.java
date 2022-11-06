@@ -1,11 +1,11 @@
-\\
+/*
 To insert element in a Array,short it & to find the 2nd largest num :
 sample input:
 5
 5 4 3 2 1
 expected output:
 4
-\\
+*/
 import java.util.*;
 class main
 {
